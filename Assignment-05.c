@@ -26,7 +26,7 @@ int main()
         }
         if (monthlyincome)=minincome
         {
-            printf("you are eligiblr")
+            printf("you are eligible")
         }
         else
         {
